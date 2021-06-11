@@ -1,5 +1,9 @@
-# spec
+# Hop Specification
 
-> Hop Protocal ppecification in TLA+
+> Hop Protocol specification in [TLA+](https://lamport.azurewebsites.net/tla/tla.html)
 
-## WIP
+This is a work-in-progress.
+
+## License
+
+[MIT](LICENSE)

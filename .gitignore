@@ -25,6 +25,7 @@
 #*.pdf
 *.tex
 *.dvi
+states
 
 # Vim backup file
 *~
