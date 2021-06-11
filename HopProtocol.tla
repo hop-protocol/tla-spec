@@ -10,7 +10,6 @@ VARIABLES
   bondedWithdrawals,
   roots
 
-
 \*-----------------------
 
 SumSeq(S) ==
